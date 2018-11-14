@@ -1,2 +1,0 @@
-# Skynet
-Skynet network website
